@@ -130,4 +130,4 @@ This pipeline is built and documented across a series of articles on Towards Dat
 1. [My 12-month self-study roadmap](https://towardsdatascience.com/from-data-analyst-to-data-engineer-my-12-month-self-study-roadmap/)
 2. [Building my first ETL pipeline as a complete beginner](https://towardsdatascience.com/i-built-my-first-etl-pipeline-as-a-complete-beginner-heres-exactly-how/)
 3. [Making the pipeline production-ready](https://towardsdatascience.com/i-thought-data-engineering-was-just-writing-scripts-i-was-wrong/)
-4. [Scheduling the pipeline with GitHub Actions]([https://towardsdatascience.com/](https://towardsdatascience.com/i-tried-to-schedule-my-etl-pipeline-heres-what-i-didnt-expect/))
+4. [Scheduling the pipeline with GitHub Actions]([https://towardsdatascience.com/i-tried-to-schedule-my-etl-pipeline-heres-what-i-didnt-expect/])
